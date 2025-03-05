@@ -4,9 +4,9 @@
 This GitHub repository is dedicated to the research, documentation, and automation of data collection related to **recreational human disturbance** in British Columbia. As part of the broader effort led by GeoBC and the Cumulative Effects Framework (CEF), this project focuses specifically on identifying and incorporating recreational infrastructure such as ski areas, golf courses, and other outdoor facilities into the Human Disturbance dataset.
 
 ## Contacts
-Ingrid Espinosa Malpica - Team Lead (Product Owner)
-Eric Millan - Geospatial Coordinator (Technical Lead)
-Candice Steinke - Geomatics with Mountain Resorts Branch (Subject Matter Expert)
+- **Ingrid Espinosa Malpica**: Team Lead (Product Owner)
+- **Eric Millan**: Geospatial Coordinator (Technical Lead)
+- **Candice Steinke**: Geomatics with Mountain Resorts Branch (Subject Matter Expert)
 
 ## Objectives
 1. **Identify and assess datasets** related to recreational land use in BC.
