@@ -26,7 +26,18 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   <img src="images/sunpeaks.png" alt="Recreation Land Use" width="400">
   </details>
 
-- [WHSE_IMAGERY_AND_BASE_MAPS.GSR_GOLF_COURSES_SV](https://catalogue.data.gov.bc.ca/dataset/golf-courses/resource/e70e32f0-2ab6-4b60-9932-b584bbb921fd): Accessed via an oracle connection in ArcGIS Pro. 
+- [WHSE_IMAGERY_AND_BASE_MAPS.GSR_GOLF_COURSES_SV](https://catalogue.data.gov.bc.ca/dataset/golf-courses/resource/e70e32f0-2ab6-4b60-9932-b584bbb921fd): Accessed via an oracle connection in ArcGIS Pro.
+  <details>
+  <summary><em>Definition of Dataset</em></summary>
+  Land used for private or public outdoor recreational purposes. Ski resorts and golf courses are included. This class does not include recreational areas within built-up portions of cities, towns and villages, which are mapped as urban areas. This class includes waterfront cottage areas if they are at least 200 metres wide.
+  </details>
+  <details>
+  <summary><em>Evaluation of Dataset</em></summary>
+  There are significant issues with this dataset which, at times, underrepresenting the land used for recreational purposes. For example, the largest feature in this dataset is the Sun Peaks Resort Skihill and nearly half of the current skihill (red) is not represented in the dataset (pink)
+  <br>
+
+  <img src="images/sunpeaks.png" alt="Recreation Land Use" width="400">
+  </details>
 
 
 
