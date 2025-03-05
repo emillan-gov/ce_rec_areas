@@ -12,6 +12,9 @@ This GitHub repository is dedicated to the research, documentation, and automati
 **Data Exploration will be completed in ArcGIS Pro, in this workspace:**
 W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
 
+**Current Input Layers Include**:
+- test
+
 ## Objectives
 1. **Identify and assess datasets** related to recreational land use in BC.
 2. **Engage with data custodians** to ensure the best available datasets are included.
