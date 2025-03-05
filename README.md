@@ -14,11 +14,11 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
 
 **Current Input Layers Include**:
 - [*WHSE_BASEMAPPING.BTM_PRESENT_LAND_USE_V1_SVW*](https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer/resource/ed4900de-db01-4aa2-b720-c8e3210b8235): Accessed via an oracle connection in ArcGIS Pro, filtered by "PRESENT_LAND_USE_LABEL" = "Recreation Activities":
-  <details open>
+  <details>
   <summary><em>Definition of Dataset</em></summary>
   Land used for private or public outdoor recreational purposes. Ski resorts and golf courses are included. This class does not include recreational areas within built-up portions of cities, towns and villages, which are mapped as urban areas. This class includes waterfront cottage areas if they are at least 200 metres wide.
   </details>
-  <details open>
+  <details>
   <summary><em>Evaluation of Dataset</em></summary>
   There are significant issues with this dataset which, at times, underrepresenting the land used for recreational purposes. For example, the largest feature in this dataset is the Sun Peaks Resort Skihill and nearly half of the current skihill (red) is not represented in the dataset (pink)
   <br>
