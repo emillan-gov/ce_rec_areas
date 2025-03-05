@@ -46,10 +46,10 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   </details>
   <details>
   <summary><em>Evaluation of Dataset</em></summary>
-  This dataset contains 40 point locations representing ski resorts throughout the process. There is a wide variety of types of Ski Resorts represented in this dataset, and it is almost certanily not complete. 
+  This dataset contains 40 point locations representing ski resorts throughout the process. There is a wide variety of types of Ski Resorts represented in this dataset, and it is almost certanily not complete. There are several features not represented in the BTM layer, inclduing small lodges such as Island Lake Lodge (left) near Fernie, or the Summit Lake Ski and Snowboard Area (right). There are likely many more missing Heli Ski Operators, smaller scale resorts or ski-related impacts on the landscape (eg, CMH, Spearhead Huts, etc)
   <br>
 
-  <img src="images/skiresorts.png" alt="Ski Resorts" width="400">
+  <img src="images/ski_resorts.png" alt="Ski Resorts" width="400">
   </details>
 
 
