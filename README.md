@@ -13,7 +13,7 @@ This GitHub repository is dedicated to the research, documentation, and automati
 W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
 
 **Current Input Layers Include**:
-- [*WHSE_BASEMAPPING.BTM_PRESENT_LAND_USE_V1_SVW*](https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer/resource/ed4900de-db01-4aa2-b720-c8e3210b8235): Accessed via an oracle connection in ArcGIS Pro, filtered by "PRESENT_LAND_USE_LABEL" = "Recreation Activities":
+- [*WHSE_BASEMAPPING.BTM_PRESENT_LAND_USE_V1_SVW*](https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer/resource/ed4900de-db01-4aa2-b720-c8e3210b8235): Accessed via an oracle connection in ArcGIS Pro, filtered by "PRESENT_LAND_USE_LABEL" = "Recreation Activities". There are 210 Features in this Feature Class, with a size range between 1000 Hectares (Sunpeaks Resort) to 
   <details>
   <summary><em>Definition of Dataset</em></summary>
   Land used for private or public outdoor recreational purposes. Ski resorts and golf courses are included. This class does not include recreational areas within built-up portions of cities, towns and villages, which are mapped as urban areas. This class includes waterfront cottage areas if they are at least 200 metres wide.
@@ -26,7 +26,7 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   <img src="images/sunpeaks.png" alt="Recreation Land Use" width="400">
   </details>
 
-- 
+- [WHSE_IMAGERY_AND_BASE_MAPS.GSR_GOLF_COURSES_SV]("https://catalogue.data.gov.bc.ca/dataset/golf-courses/resource/e70e32f0-2ab6-4b60-9932-b584bbb921fd"): Accessed via an oracle connection in ArcGIS Pro. 
 
 
 
