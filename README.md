@@ -26,7 +26,7 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   <img src="images/sunpeaks.png" alt="Recreation Land Use" width="400">
   </details>
 
-- [WHSE_IMAGERY_AND_BASE_MAPS.GSR_GOLF_COURSES_SV]("https://catalogue.data.gov.bc.ca/dataset/golf-courses/resource/e70e32f0-2ab6-4b60-9932-b584bbb921fd"): Accessed via an oracle connection in ArcGIS Pro. 
+- [WHSE_IMAGERY_AND_BASE_MAPS.GSR_GOLF_COURSES_SV](https://catalogue.data.gov.bc.ca/dataset/golf-courses/resource/e70e32f0-2ab6-4b60-9932-b584bbb921fd): Accessed via an oracle connection in ArcGIS Pro. 
 
 
 
