@@ -18,6 +18,10 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   <summary><em>Definition of Dataset</em></summary>
   Land used for private or public outdoor recreational purposes. Ski resorts and golf courses are included. This class does not include recreational areas within built-up portions of cities, towns and villages, which are mapped as urban areas. This class includes waterfront cottage areas if they are at least 200 metres wide.
   </details>
+  <details open>
+  <summary><em>Evaluation of Dataset</em></summary>
+  There are significant issues with this dataset which, at times, underrepresenting the land used for recreational purposes. For example, the largest feature in this dataset is the Sun Peaks Resort Skihill
+  </details>
 
 - 
 
