@@ -54,11 +54,5 @@ Contributions to this repository are welcome, particularly in the areas of:
 
 If you'd like to contribute, please refer to the repository's contribution guidelines.
 
-## License
-This repository and associated datasets will be made publicly available under an open data license to support transparency and accessibility.
-
-## Contact
-For questions, collaboration opportunities, or data contributions, please contact [Your Name] or raise an issue in this repository.
-
 ---
 This project is a specialized component of the broader **Human Disturbance Dataset Enhancement for BC**, focusing on recreational human disturbance data to improve land-use decision-making.
