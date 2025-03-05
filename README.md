@@ -13,7 +13,7 @@ This GitHub repository is dedicated to the research, documentation, and automati
 W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
 
 **Current Input Layers Include**:
-- [*WHSE_BASEMAPPING.BTM_PRESENT_LAND_USE_V1_SVW*](https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer/resource/ed4900de-db01-4aa2-b720-c8e3210b8235): Accessed via an oracle connection in ArcGIS Pro, filtered by "PRESENT_LAND_USE_LABEL" = "Recreation Activities". There are 210 Features in this Feature Class, with a size range between 1000 Hectares (Sunpeaks Resort) to 
+- [*WHSE_BASEMAPPING.BTM_PRESENT_LAND_USE_V1_SVW*](https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer/resource/ed4900de-db01-4aa2-b720-c8e3210b8235): Accessed via an oracle connection in ArcGIS Pro, filtered by "PRESENT_LAND_USE_LABEL" = "Recreation Activities". There are 210 Features in this Feature Class, with a size range between 1000 Hectares (Sunpeaks Resort) to 18 Hectares. The level of development varies significantly in these features (some are virtually undeveloped).
   <details>
   <summary><em>Definition of Dataset</em></summary>
   Land used for private or public outdoor recreational purposes. Ski resorts and golf courses are included. This class does not include recreational areas within built-up portions of cities, towns and villages, which are mapped as urban areas. This class includes waterfront cottage areas if they are at least 200 metres wide.
@@ -36,20 +36,20 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   This dataset contains 295 point locations representing golfcourses throughout the process. It appears to identify many more golf courses than contained in the Baseline Thematic Mapping layer, although this could be due to the colocation of Golf Courses in urban areas (BTM explicitely states that recreational uses near urban areas are not captured under the recreation classification). This dataset may proove useful in starting off an image classifciation process (to identify the footprints of more golf courses). The image below captures the general trend of some colocation between the BTM Layer (Pink) and the Point Data contained in this dataset, and the phenomenon that there are many more golf courses identified in this layer than in BTM.
   <br>
 
-  <img src="images/golfcourses.png" alt="Recreation Land Use" width="400">
+  <img src="images/golfcourses.png" alt="Golf Courses" width="400">
   </details>
 
 - [WHSE_IMAGERY_AND_BASE_MAPS.GSR_SKI_RESORTS_SV](https://catalogue.data.gov.bc.ca/dataset/ski-resorts): Accessed via an oracle connection in ArcGIS Pro.
   <details>
   <summary><em>Definition of Dataset</em></summary>
-  The location of golf courses is tracked in the sites database at GeoBC. This database identifies the physical location of the building or the access point to the property (for emergency response). This dataset is updated at the beginning of each month.
+  GSR_SKI_RESORTS_SV is a spatially enabled layer comprising Ski Resorts. Ski Resorts is a point dataset identifying the location of ski resorts in British Columbia.
   </details>
   <details>
   <summary><em>Evaluation of Dataset</em></summary>
-  This dataset contains 295 point locations representing golfcourses throughout the process. It appears to identify many more golf courses than contained in the Baseline Thematic Mapping layer, although this could be due to the colocation of Golf Courses in urban areas (BTM explicitely states that recreational uses near urban areas are not captured under the recreation classification). This dataset may proove useful in starting off an image classifciation process (to identify the footprints of more golf courses). The image below captures the general trend of some colocation between the BTM Layer (Pink) and the Point Data contained in this dataset, and the phenomenon that there are many more golf courses identified in this layer than in BTM.
+  This dataset contains 40 point locations representing ski resorts throughout the process. There is a wide variety of types of Ski Resorts represented in this dataset, and it is almost certanily not complete. 
   <br>
 
-  <img src="images/golfcourses.png" alt="Recreation Land Use" width="400">
+  <img src="images/skiresorts.png" alt="Ski Resorts" width="400">
   </details>
 
 
