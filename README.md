@@ -47,7 +47,6 @@ This repository will include:
 ## Tools & Technologies
 - **Python** (for data processing, automation, and analysis)
 - **ArcGIS Pro / QGIS** (for spatial data processing)
-- **PostgreSQL/PostGIS** (for database management)
 - **Remote sensing & LiDAR** (for enhanced dataset validation, if applicable)
 - **GeoBC & Open Data sources** (for accessing relevant spatial datasets)
 
