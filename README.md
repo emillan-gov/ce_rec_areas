@@ -9,7 +9,7 @@ This GitHub repository is dedicated to the research, documentation, and automati
 - **Candice Steinke**: Geomatics with Mountain Resorts Branch (Subject Matter Expert)
 
 ## Data Workspace
-Data Exploration will be completed in ArcGIS Pro, in this workspace:
+**Data Exploration will be completed in ArcGIS Pro, in this workspace:**
 W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
 
 ## Objectives
