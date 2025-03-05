@@ -33,7 +33,7 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   </details>
   <details>
   <summary><em>Evaluation of Dataset</em></summary>
-  This dataset contains 295 point locations representing golfcourses throughout the process. It appears to identify many more golf courses than contained in the Baseline Thematic Mapping layer, although this could be do to the colocation of Golf Courses in urban areas (BTM explicitely states that recreational uses near urban areas are not captured under the recreation classification). This dataset may proove useful in starting off an image classifciation process (to identify the footprints of more golf courses). 
+  This dataset contains 295 point locations representing golfcourses throughout the process. It appears to identify many more golf courses than contained in the Baseline Thematic Mapping layer, although this could be due to the colocation of Golf Courses in urban areas (BTM explicitely states that recreational uses near urban areas are not captured under the recreation classification). This dataset may proove useful in starting off an image classifciation process (to identify the footprints of more golf courses). The image below captures the general trend of some colocation between the BTM Layer (Pink) and the Point Data contained in this dataset, and the phenomenon that there are many more golf courses identified in this layer than in BTM.
   <br>
 
   <img src="images/golfcourses.png" alt="Recreation Land Use" width="400">
