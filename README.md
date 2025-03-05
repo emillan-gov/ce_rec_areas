@@ -13,7 +13,7 @@ This GitHub repository is dedicated to the research, documentation, and automati
 W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
 
 **Current Input Layers Include**:
-- *WHSE_BASEMAPPING.BTM_PRESENT_LAND_USE_V1_SVW*
+- [*WHSE_BASEMAPPING.BTM_PRESENT_LAND_USE_V1_SVW*](https://catalogue.data.gov.bc.ca/dataset/baseline-thematic-mapping-present-land-use-version-1-spatial-layer/resource/ed4900de-db01-4aa2-b720-c8e3210b8235): Accessed via an oracle connection in ArcGIS Pro
 
 ## Objectives
 1. **Identify and assess datasets** related to recreational land use in BC.
