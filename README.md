@@ -8,6 +8,10 @@ This GitHub repository is dedicated to the research, documentation, and automati
 - **Eric Millan**: Geospatial Coordinator (Technical Lead)
 - **Candice Steinke**: Geomatics with Mountain Resorts Branch (Subject Matter Expert)
 
+## Data Workspace
+Data Exploration will be completed in ArcGIS Pro, in this workspace:
+W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
+
 ## Objectives
 1. **Identify and assess datasets** related to recreational land use in BC.
 2. **Engage with data custodians** to ensure the best available datasets are included.
