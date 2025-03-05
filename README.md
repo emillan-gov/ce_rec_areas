@@ -21,8 +21,9 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   <details open>
   <summary><em>Evaluation of Dataset</em></summary>
   There are significant issues with this dataset which, at times, underrepresenting the land used for recreational purposes. For example, the largest feature in this dataset is the Sun Peaks Resort Skihill
-  
-  ![Recreation Land Use](images/sunpeaks.png)
+  <br>
+
+  <img src="images/sunpeaks.png" alt="Recreation Land Use" width="400">
   </details>
 
 - 
