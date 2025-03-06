@@ -52,7 +52,7 @@ W:\srm\sry\Workarea\emillan\sandbox\CumulativeEffects_HumanDisturbance
   <img src="images/ski_resorts.png" alt="Ski Resorts" width="400">
   </details>
 
-Contacts at **Mountain Resorts Branch** communicated that they use 3rd party data to get a more complete picture of ski resorts, including [OpenStreetMap](https://www.openstreetmap.org/search?query=whistler#map=14/50.10115/-122.95864). Query for "aerialway" to view ski lifts), or [Tag:route:ski](https://wiki.openstreetmap.org/wiki/Tag:route%3Dski) for ski routes.
+Contacts at **Mountain Resorts Branch** communicated that they use 3rd party data to get a more complete picture of ski resorts, including [OpenStreetMap](https://www.openstreetmap.org/search?query=whistler#map=14/50.10115/-122.95864). Query for "aerialway" to view ski lifts), or [Tag:route:ski](https://wiki.openstreetmap.org/wiki/Tag:route%3Dski) for ski routes. Mountain Resorts Branch also has special data representing future expansion plans for mountain resorts, which are considerably larger than the current land usage. These potential future disturbed land would not be suitable for this analysis.
 
 
 ## Objectives
